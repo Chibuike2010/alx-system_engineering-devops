@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chowner hello betty
+sudo chowner betty hello
